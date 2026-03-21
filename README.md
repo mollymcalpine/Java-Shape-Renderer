@@ -39,3 +39,5 @@ Skills Demonstrated:
 - Interface segregation and dependency inversion.
 - Strategy pattern applied across multiple independent axes of variation.
 - Runtime object construction from external data (JSON).
+
+Developed as part of a course project at SFU.
