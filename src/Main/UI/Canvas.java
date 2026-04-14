@@ -1,4 +1,4 @@
-package As4.UI;
+package Main.UI;
 
 import java.awt.Color;
 

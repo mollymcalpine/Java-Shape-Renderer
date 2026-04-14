@@ -1,7 +1,7 @@
-package As4.Model.options;
+package Main.Model.options;
 
-import As4.Model.BorderOption;
-import As4.UI.Canvas;
+import Main.Model.BorderOption;
+import Main.UI.Canvas;
 
 /**
  * Implementation of the BorderOption interface which

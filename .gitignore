@@ -29,4 +29,6 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storegson-2.13.2.jar
+production/
+out/

@@ -1,10 +1,10 @@
-package As4.Model;
+package Main.Model;
 
-import As4.Model.options.CharacterBorderOption;
-import As4.Model.options.SolidBackgroundOption;
-import As4.Model.options.SolidFillOption;
-import As4.UI.Canvas;
-import As4.UI.DrawableShape;
+import Main.Model.options.CharacterBorderOption;
+import Main.Model.options.SolidBackgroundOption;
+import Main.Model.options.SolidFillOption;
+import Main.UI.Canvas;
+import Main.UI.DrawableShape;
 import java.awt.*;
 
 /**

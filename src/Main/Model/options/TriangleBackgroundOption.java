@@ -1,7 +1,7 @@
-package As4.Model.options;
+package Main.Model.options;
 
 import java.awt.*;
-import As4.Model.BackgroundOption;
+import Main.Model.BackgroundOption;
 /**
  * Implementation of the BackgroundOption interface which
  * makes the top-right half of a box (including the main diagonal)

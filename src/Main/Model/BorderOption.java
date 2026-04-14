@@ -1,6 +1,6 @@
-package As4.Model;
+package Main.Model;
 
-import As4.UI.Canvas;
+import Main.UI.Canvas;
 
 /**
  * Interface to define an option for the border.

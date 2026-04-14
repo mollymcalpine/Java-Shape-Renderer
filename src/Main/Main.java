@@ -1,7 +1,7 @@
-package As4;
+package Main;
 
-import As4.UI.GUI;
-import As4.Model.ShapeModelImplementation;
+import Main.UI.GUI;
+import Main.Model.ShapeModelImplementation;
 
 /**
  * Displays a "picture" of the objects described to the As4.UI.

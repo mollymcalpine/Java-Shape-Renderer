@@ -1,4 +1,4 @@
-package As4.Model;
+package Main.Model;
 
 import java.awt.Color;
 import java.io.File;
@@ -6,9 +6,9 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Iterator;
-import As4.Model.options.*;
-import As4.ShapeModel;
-import As4.UI.DrawableShape;
+import Main.Model.options.*;
+import Main.ShapeModel;
+import Main.UI.DrawableShape;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;

@@ -1,4 +1,4 @@
-package As4.UI;
+package Main.UI;
 
 /**
  * Defines a graphical shape interface.

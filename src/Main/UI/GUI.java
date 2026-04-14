@@ -1,10 +1,10 @@
-package As4.UI;
+package Main.UI;
 
 import javax.swing.*;
 import java.io.File;
 import java.io.PrintWriter;
 import java.io.StringWriter;
-import As4.ShapeModel;
+import Main.ShapeModel;
 
 /**
  * As4.UI to show shapes.

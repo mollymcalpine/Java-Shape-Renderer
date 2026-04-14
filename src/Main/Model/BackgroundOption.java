@@ -1,4 +1,4 @@
-package As4.Model;
+package Main.Model;
 
 import java.awt.*;
 

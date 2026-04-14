@@ -1,6 +1,6 @@
-package As4;
+package Main;
 
-import As4.UI.DrawableShape;
+import Main.UI.DrawableShape;
 import java.io.File;
 import java.util.Iterator;
 
